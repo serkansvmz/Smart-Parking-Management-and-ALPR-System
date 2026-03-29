@@ -17,37 +17,37 @@ Bu proje, YOLOv8 nesne tespit algoritması ve EasyOCR kütüphanesi kullanılara
 ## 🛠️ Kurulum
 - **Depoyu Klonlayın:**
 
-'''Bash
+```
    git clone https://github.com/serkansvmz/Smart-Parking-and-License-Plate-Recognition-System--ALPR.git
    cd ALPR-System
-   '''
+```
 
 - **Gerekli Kütüphaneleri Kurun:**
 (Python 3.12+ önerilir)
 
-'''Bash
+```
    pip install -r requirements.txt
-   '''
+```
 - **Model Ağırlıklarını Kontrol Edin:**
 models/best.pt dosyasının yerinde olduğundan emin olun.
 
 ## 💻 Kullanım
 - Sistemi çalıştırmak için terminale şu komutu yazın:
 
-'''Bash
+```
    python main.py
-   '''
+```
 - database.json içeriğini şu şekilde düzenleyerek kendi araçlarınızı ekleyebilirsiniz:
 
 JSON
-'''Bash
+```
   {
       "authorized_vehicles": {
           "34LY9771": "Serkan Sevmez - Anadol",
           "61HK325": "Misafir - Seat"
       }
   }
-  '''
+  ```
   
 ## 📊 Eğitim (Training)
 Model, [Roboflow] üzerinden alınan veri seti ile YOLOv8 mimarisi kullanılarak eğitilmiştir. Eğitim süreciyle ilgili detaylara models/train.py dosyasından ulaşabilirsiniz.
