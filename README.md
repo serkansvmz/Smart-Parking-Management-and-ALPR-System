@@ -19,6 +19,8 @@ Bu proje, YOLOv8 nesne tespit algoritması ve EasyOCR kütüphanesi kullanılara
 
 ```
    git clone https://github.com/serkansvmz/Smart-Parking-and-License-Plate-Recognition-System--ALPR.git
+```
+```
    cd ALPR-System
 ```
 
