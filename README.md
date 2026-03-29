@@ -94,10 +94,8 @@ Gerçek plakaların %89'u model tarafından yakalanmıştır.
 
 - Toplam Tepki Süresi: < 1 Saniye
 
-**Metrik**            **Değer**         **Durum**      
-  Tespit Doğruluğu      %94               ✅ Yüksek
-  Okuma Doğruluğu       %88               ⚠️ Geliştirilebilir
-  FPS (CPU)             5-7               🔵 Stabil
+<img width="911" height="257" alt="image" src="https://github.com/user-attachments/assets/e50fe8ff-274a-4db6-a957-023631a2e624" />
+
 
 - "Roboflow Health Check verilerine göre; veri setindeki sınıflar (License Plate) dengeli bir dağılım göstermektedir. Ortalama nesne boyutu 640x640 çözünürlükte optimize edilmiş olup, modelin küçük ve orta ölçekli plakaları yakalama kabiliyeti mAP değerleriyle desteklenmiştir."
 
