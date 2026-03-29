@@ -52,7 +52,10 @@ JSON
   ```
   
 ## 📊 Eğitim (Training)
-Model, [Roboflow] üzerinden alınan veri seti ile YOLOv8 mimarisi kullanılarak eğitilmiştir. Eğitim süreciyle ilgili detaylara models/train.py dosyasından ulaşabilirsiniz.
+Model, Roboflow üzerinden alınan veri seti ile YOLOv8 mimarisi kullanılarak eğitilmiştir. Modeli eğitmek için kullandığım veri setini aşağıdaki linkten inceleyebilirsiniz.
+```
+https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e
+```
 
 ## 📷 Örnek Çıktılar
 
