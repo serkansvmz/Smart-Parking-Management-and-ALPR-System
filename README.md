@@ -59,9 +59,9 @@ https://universe.roboflow.com/roboflow-universe-projects/license-plate-recogniti
 
 ## 📷 Örnek Çıktılar
 
-<img width="378" height="499" alt="image" src="https://github.com/user-attachments/assets/809f4b60-09d1-426e-855b-3a5ca1b619cb" />
-<img width="609" height="785" alt="image" src="https://github.com/user-attachments/assets/4265bdcd-ff36-4c5a-b1de-ce0b27f65e84" />
-<img width="659" height="207" alt="image" src="https://github.com/user-attachments/assets/c5b22749-56ff-4a17-8fda-b94b0cfac6a2" />
+<img width="400" height="499" alt="image" src="https://github.com/user-attachments/assets/809f4b60-09d1-426e-855b-3a5ca1b619cb" />
+<img width="400" height="785" alt="image" src="https://github.com/user-attachments/assets/4265bdcd-ff36-4c5a-b1de-ce0b27f65e84" />
+<img width="400" height="207" alt="image" src="https://github.com/user-attachments/assets/c5b22749-56ff-4a17-8fda-b94b0cfac6a2" />
 
 # 📊 Proje Performans Analizi ve Çıktılar
 Bu bölümde, modelin eğitim sürecindeki başarısı ve plaka tanıma sisteminin genel doğruluğu matematiksel verilerle sunulmuştur.
