@@ -104,7 +104,7 @@ Gerçek plakaların %89'u model tarafından yakalanmıştır.
 
 - "Roboflow Health Check verilerine göre; veri setindeki sınıflar (License Plate) dengeli bir dağılım göstermektedir. Ortalama nesne boyutu 640x640 çözünürlükte optimize edilmiş olup, modelin küçük ve orta ölçekli plakaları yakalama kabiliyeti mAP değerleriyle desteklenmiştir."
 
-<img width="456" height="814" alt="image" src="https://github.com/user-attachments/assets/cebe510f-9557-4001-ac80-966a7d8672a2" />
-<img width="431" height="586" alt="image" src="https://github.com/user-attachments/assets/710cd7aa-17ff-41df-844e-81e4a113dfb9" />
+<img width="450" height="600" alt="image" src="https://github.com/user-attachments/assets/cebe510f-9557-4001-ac80-966a7d8672a2" />
+<img width="450" height="600" alt="image" src="https://github.com/user-attachments/assets/710cd7aa-17ff-41df-844e-81e4a113dfb9" />
 
 
