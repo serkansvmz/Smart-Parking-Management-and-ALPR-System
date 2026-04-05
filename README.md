@@ -86,7 +86,9 @@ Sistem şu üç aşamalı hattan (pipeline) oluşur:
 | <img src="test_result/car11_giris_test.JPG" width="500"> | <img src="test_result/car11_cıkıs_test.JPG" width="500"> |
 
 
-
+| Veritabanı Durumu (JSON) | Kalıcı Log Dosyası (CSV) |
+| :---: | :---: |
+| <img src="test_result/parked_cars.JPG" width="500"> | <img src="test_result/cars_log.JPG" width="500"> |
 
 
 
