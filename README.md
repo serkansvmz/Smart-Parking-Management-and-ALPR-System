@@ -15,8 +15,8 @@ Bu proje; YOLOv8 tabanlı nesne tespiti, Fast-Plate-OCR (ONNX) ile yüksek hızl
 ## 🧠 Model Eğitimi (Training Details)
 Bu projenin kalbi olan plaka tespit modeli, Transfer Learning tekniği kullanılarak eğitilmiştir.
 
-- **Dataset:** Roboflow License Plate Recognition
-
+- **Dataset:** [Roboflow License Plate Recognition](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e)
+    
 - **Epoch:** 100
 
 - **Görüntü Boyutu:** 640x640
