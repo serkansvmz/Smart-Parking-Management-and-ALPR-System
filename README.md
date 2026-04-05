@@ -71,7 +71,7 @@ Sistem şu üç aşamalı hattan (pipeline) oluşur:
 ## 🖼️ Örnek Görsel Çıktıları
 | Giriş | Çıkış |
 | :---: | :---: |
-| <img src="test_result/car1_giris_test.JPG" width="45%"> | <img src="test_result/car1_cıkıs_test.JPG" width="45%"> |
+| <img src="test_result/car1_giris_test.JPG" width="400"> | <img src="test_result/car1_cıkıs_test.JPG" width="400"> |
 
 
 
