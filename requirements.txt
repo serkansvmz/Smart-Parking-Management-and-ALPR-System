@@ -1,0 +1,16 @@
+# --- Temel Yapay Zeka ve Görüntü İşleme ---
+ultralytics>=8.1.0
+opencv-python>=4.9.0.80
+onnxruntime>=1.17.0
+
+# --- Plaka Tanıma (Hızlı OCR) ---
+fast-plate-ocr>=1.1.0
+
+# --- Veri Yönetimi ve Analiz ---
+pandas>=2.2.0
+numpy>=1.26.0
+
+# --- Yardımcı Araçlar ---
+pillow>=10.2.0
+pyyaml>=6.0.1
+requests>=2.31.0
