@@ -75,7 +75,7 @@ Sistem şu üç aşamalı hattan (pipeline) oluşur:
 
 | Giriş | Çıkış |
 | :---: | :---: |
-| <img src="test_result/car2_giris_test.JPG" width="450"> | <img src="test_result/car2_cıkıs_test.JPG" width="450"> |
+| <img src="test_result/car2_giris_test.JPG" width="500"> | <img src="test_result/car2_cıkıs_test.JPG" width="500"> |
 
 | Giriş | Çıkış |
 | :---: | :---: |
@@ -83,7 +83,7 @@ Sistem şu üç aşamalı hattan (pipeline) oluşur:
 
 | Giriş | Çıkış |
 | :---: | :---: |
-| <img src="test_result/car11_giris_test.JPG" width="400"> | <img src="test_result/car11_cıkıs_test.JPG" width="400"> |
+| <img src="test_result/car11_giris_test.JPG" width="500"> | <img src="test_result/car11_cıkıs_test.JPG" width="500"> |
 
 
 
