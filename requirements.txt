@@ -1,7 +1,0 @@
-ultralytics
-easyocr
-opencv-python
-pandas
-numpy
-torch
-torchvision
