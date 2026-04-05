@@ -1,5 +1,5 @@
 # 📝 Smart Parking Management and ALPR System 
-Bu proje; YOLOv8 tabanlı nesne tespiti, Fast-Plate-OCR (ONNX) ile yüksek hızlı karakter tanıma ve JSON/CSV tabanlı dinamik otopark yönetim mantığını birleştiren bir çözümdür.
+Bu proje; YOLOv8 tabanlı nesne tespiti, [Fast-Plate-OCR (ONNX)](https://fastplateocr.com) ile yüksek hızlı karakter tanıma ve JSON/CSV tabanlı dinamik otopark yönetim mantığını birleştiren bir çözümdür.
 
 ## 🚀 Özellikler
 - **Özel Eğitilmiş YOLOv8 Modeli:** Roboflow üzerinden 1000+ etiketli görsel ile plaka tespiti için optimize edildi.
