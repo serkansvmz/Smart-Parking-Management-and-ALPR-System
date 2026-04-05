@@ -61,7 +61,7 @@ Sistem şu üç aşamalı hattan (pipeline) oluşur:
 - **test_result:** Proje çıktı görselleri.
   
 - **source:** Kaynak kodları.
-- 
+
 - **models/best.pt:** Eğitilen özel ağırlıklar.
 
 - **parked_cars.json:** Aktif içerideki araçlar (Veritabanı).
